@@ -1,4 +1,8 @@
 C.tyt
+<<<<<<< HEAD
 
 
 Lokáslis változtatás
+=======
+C módosítása Githubon
+>>>>>>> 0e731289713f7a23dc7e633c59759874eaa7d001
