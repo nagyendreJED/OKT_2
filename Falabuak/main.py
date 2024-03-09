@@ -1,7 +1,7 @@
 from feladat1 import egy
 from feladat2 import ketto
 from feladat3 import harom
-from feladat5 import hat
+from feladat6 import hat
 
 #def main():
 

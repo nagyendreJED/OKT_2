@@ -1,6 +1,6 @@
-def ot(gy :int, d :int, v:int):
+def ot(win :int, d :int, v:int):
     print('\n5. feladat')
-    if gy > d + v:
+    if win > d + v:
         print('A csapatnak több győztes mérkőzése volt, mint veresége és döntelene együttvéve.')
     else:
         print('A csapatnak nem volt több győztes mérközése, mint veresége és döntelene együttvéve.')
