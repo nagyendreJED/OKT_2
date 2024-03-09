@@ -13,7 +13,7 @@ def harom(golk):
             veresegek = veresegek + 1
         else:
             dontelenek = dontelenek + 1
-    print('A szezonban a csapatnak',gyozelmek, 'győzelme,', veresegek, 'veresége', dontelenek, 'döntetlene volt.')
+    print(f'A szezonban a csapatnak {gyozelmek} győzelme, {veresegek} veresége {dontelenek} döntetlene volt.')
 
     negy(gyozelmek, dontelenek)
     ot(gyozelmek, dontelenek,veresegek)
