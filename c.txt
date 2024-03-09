@@ -1,3 +1,4 @@
-C.tyt
+C.txt
 Lokáslis változtatás
-0e731289713f7a23dc7e633c59759874eaa7d001
+x javítva
+
