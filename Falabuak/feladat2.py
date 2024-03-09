@@ -3,7 +3,6 @@ def ketto(max :int):
     print('\n2. feladat')
     golkulonbsegek = []
     for i in range(0, max):
-        aktualis_ertek = random.randint(-3,4)
-        golkulonbsegek.append(aktualis_ertek)
+        golkulonbsegek.append(random.randint(-3,4))
     return golkulonbsegek
 
