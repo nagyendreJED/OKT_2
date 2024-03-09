@@ -1,4 +1,4 @@
 C.txt
 Lokáslis változtatás
 x javítva
-
+tényleg javítva
